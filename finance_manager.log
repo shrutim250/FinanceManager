@@ -1,0 +1,29 @@
+2025-03-31 12:43:52,889 - INFO - Database connection established
+2025-03-31 12:43:52,902 - INFO - Table stock verified/created
+2025-03-31 12:43:52,906 - INFO - Table financial_records verified/created
+2025-03-31 12:43:52,910 - INFO - Table categories verified/created
+2025-03-31 12:43:52,916 - INFO - Table settings verified/created
+2025-03-31 12:43:52,920 - INFO - Database initialized successfully
+2025-03-31 12:53:27,646 - INFO - Database connection established
+2025-03-31 12:53:27,649 - INFO - Table stock verified/created
+2025-03-31 12:53:27,649 - INFO - Table financial_records verified/created
+2025-03-31 12:53:27,649 - INFO - Table categories verified/created
+2025-03-31 12:53:27,650 - INFO - Table settings verified/created
+2025-03-31 12:53:27,650 - INFO - Database initialized successfully
+2025-03-31 12:53:27,672 - INFO - Database backup created at backup_20250331_125327.db
+2025-03-31 12:55:02,909 - INFO - Database connection established
+2025-03-31 12:55:02,910 - INFO - Table stock verified/created
+2025-03-31 12:55:02,912 - INFO - Table financial_records verified/created
+2025-03-31 12:55:02,912 - INFO - Table categories verified/created
+2025-03-31 12:55:02,912 - INFO - Table settings verified/created
+2025-03-31 12:55:02,913 - INFO - Database initialized successfully
+2025-03-31 12:55:02,931 - INFO - Database backup created at backup_20250331_125502.db
+2025-03-31 12:56:35,604 - INFO - Database connection closed
+2025-03-31 12:57:14,068 - INFO - Database connection established
+2025-03-31 12:57:14,069 - INFO - Table stock verified/created
+2025-03-31 12:57:14,069 - INFO - Table financial_records verified/created
+2025-03-31 12:57:14,070 - INFO - Table categories verified/created
+2025-03-31 12:57:14,070 - INFO - Table settings verified/created
+2025-03-31 12:57:14,070 - INFO - Database initialized successfully
+2025-03-31 12:57:14,092 - INFO - Database backup created at backup_20250331_125714.db
+2025-03-31 12:58:24,970 - INFO - Database connection closed
